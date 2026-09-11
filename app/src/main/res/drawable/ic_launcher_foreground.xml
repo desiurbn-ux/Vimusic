@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer concentric ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF0033"
+        android:strokeWidth="3.5"
+        android:pathData="M54,54m-27,0a27,27 0 1,0 54,0a27,27 0 1,0 -54,0" />
+
+    <!-- Inner filled circle -->
+    <path
+        android:fillColor="#FF0033"
+        android:pathData="M54,54m-20,0a20,20 0 1,0 40,0a20,20 0 1,0 -40,0" />
+
+    <!-- Play triangle in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,43L63,54L49,65Z" />
+</vector>

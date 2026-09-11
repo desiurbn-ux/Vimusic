@@ -1,0 +1,7 @@
+{
+  "name": "YouTube Music Player",
+  "description": "YouTube Music Library & Player with dark UI, YouTube Data API search, IFrame playback, and personal library",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
